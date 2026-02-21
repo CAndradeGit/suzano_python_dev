@@ -1,0 +1,16 @@
+
+use o anaconda prompt na primeira vez
+
+
+- Ativar o Anaconda no Prompt (anaconda.bat)
+    C:\Users\SEU_USUARIO\anaconda3\Scripts\activate.bat
+
+-Criar um novo ambiente para o curso
+    conda create -n curso_python python=3.11
+
+- Ativar o ambiente criado
+    conda init
+    conda activate curso_python
+
+- pasta do curso
+    C:\Users\carlo\Cursos_Python\DIO\Cursos\Python
