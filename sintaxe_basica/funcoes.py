@@ -11,6 +11,6 @@ exibirpoema(
     "meu chefinho querido",
     "mora no meu coração",
     nome="Corrimão do sucesso",
-    autor="João Ninguém",
+    autor="João das Couves",
     ano=2026
 )

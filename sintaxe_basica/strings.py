@@ -28,4 +28,4 @@ def teste_funcao (nome):
     print(nome)
 
 
-print (teste_funcao("João"))    
+print (teste_funcao("João das couves"))    
