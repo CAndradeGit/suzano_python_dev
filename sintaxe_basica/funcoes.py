@@ -11,6 +11,6 @@ exibirpoema(
     "meu chefinho querido",
     "mora no meu coração",
     nome="Corrimão do sucesso",
-    autor="clayton Andrade",
+    autor="João Ninguém",
     ano=2026
 )
